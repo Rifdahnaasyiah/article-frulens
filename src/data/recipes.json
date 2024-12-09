@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "title": "Smoothie Mangga Pisang",
+    "ingredients": [
+      "1 buah mangga matang",
+      "1 buah pisang",
+      "100 ml susu almond",
+      "1 sendok makan madu"
+    ],
+    "steps": [
+      "Potong mangga dan pisang menjadi bagian kecil.",
+      "Masukkan mangga, pisang, susu almond, dan madu ke dalam blender.",
+      "Blender hingga halus, sajikan dalam gelas."
+    ],
+    "image": "images/smoothie_mango_banana.jpg",
+    "category": ["Minuman Sehat"],
+    "serving": 2,
+    "prep_time": "10 menit"
+  },
+  {
+    "id": 2,
+    "title": "Salad Buah Tropis",
+    "ingredients": [
+      "1 buah nanas, potong dadu",
+      "1 buah mangga, potong dadu",
+      "100 g buah anggur",
+      "1 buah jeruk bali, kupas dan pisahkan",
+      "1 sendok makan air perasan jeruk nipis"
+    ],
+    "steps": [
+      "Campurkan semua buah dalam mangkuk besar.",
+      "Tambahkan air jeruk nipis dan aduk rata.",
+      "Salad buah tropis siap dinikmati!"
+    ],
+    "image": "images/salad_fruit_tropical.jpg",
+    "category": ["Makanan Ringan", "Sehat"],
+    "serving": 3,
+    "prep_time": "15 menit"
+  },
+  {
+    "id": 3,
+    "title": "Pancake Pisang Cokelat",
+    "ingredients": [
+      "2 buah pisang matang",
+      "2 butir telur",
+      "1/2 cup oatmeal",
+      "1 sendok teh baking powder",
+      "1/4 sendok teh vanili"
+    ],
+    "steps": [
+      "Tumbuk pisang hingga halus.",
+      "Campurkan pisang, telur, oatmeal, baking powder, dan vanili.",
+      "Masak adonan dengan wajan anti lengket hingga kedua sisi berwarna coklat keemasan.",
+      "Pancake pisang siap disajikan."
+    ],
+    "image": "images/pancake_banana_chocolate.jpg",
+    "category": ["Sarapan", "Sehat"],
+    "serving": 2,
+    "prep_time": "20 menit"
+  },
+  {
+    "id": 4,
+    "title": "Es Krim Buah Alpukat",
+    "ingredients": [
+      "2 buah alpukat matang",
+      "200 ml susu kental manis",
+      "100 ml susu cair",
+      "1 sendok teh air jeruk nipis"
+    ],
+    "steps": [
+      "Ambil daging alpukat dan haluskan.",
+      "Campurkan susu kental manis, susu cair, dan air jeruk nipis.",
+      "Masukkan campuran alpukat dan susu ke dalam freezer selama 4 jam.",
+      "Es krim buah alpukat siap disajikan!"
+    ],
+    "image": "images/ice_cream_avocado.jpg",
+    "category": ["Dessert", "Sehat"],
+    "serving": 4,
+    "prep_time": "10 menit"
+  },
+  {
+    "id": 5,
+    "title": "Muffin Pisang Cokelat",
+    "ingredients": [
+      "2 buah pisang matang, haluskan",
+      "1 1/2 cup tepung terigu",
+      "1/2 cup gula kelapa",
+      "1/2 cup cokelat chip",
+      "1 butir telur",
+      "1 sendok teh baking powder"
+    ],
+    "steps": [
+      "Campurkan semua bahan kering dalam mangkuk.",
+      "Tambahkan pisang halus dan telur ke bahan kering.",
+      "Masukkan cokelat chip dan aduk rata.",
+      "Tuang adonan ke dalam cetakan muffin dan panggang pada suhu 180°C selama 20 menit."
+    ],
+    "image": "images/muffin_banana_chocolate.jpg",
+    "category": ["Kue", "Makanan Ringan"],
+    "serving": 6,
+    "prep_time": "30 menit"
+  },
+  {
+    "id": 6,
+    "title": "Puding Mangga",
+    "ingredients": [
+      "2 buah mangga matang",
+      "300 ml susu cair",
+      "1/4 cup gula",
+      "2 sendok makan agar-agar bubuk"
+    ],
+    "steps": [
+      "Blender mangga hingga halus.",
+      "Campurkan susu cair, gula, dan agar-agar, masak hingga mendidih.",
+      "Masukkan mangga ke dalam campuran agar-agar dan aduk rata.",
+      "Tuang ke dalam cetakan dan biarkan dingin hingga mengeras."
+    ],
+    "image": "images/pudding_mango.jpg",
+    "category": ["Dessert", "Sehat"],
+    "serving": 4,
+    "prep_time": "20 menit"
+  },
+  {
+    "id": 7,
+    "title": "Jus Jeruk Segar",
+    "ingredients": [
+      "4 buah jeruk, peras",
+      "1 sendok makan madu",
+      "Es batu secukupnya"
+    ],
+    "steps": [
+      "Peras jeruk dan ambil airnya.",
+      "Campurkan dengan madu dan es batu.",
+      "Aduk rata dan sajikan segar."
+    ],
+    "image": "images/juice_orange.jpg",
+    "category": ["Minuman Sehat"],
+    "serving": 2,
+    "prep_time": "5 menit"
+  },
+  {
+    "id": 8,
+    "title": "Tart Kiwi dan Strawberi",
+    "ingredients": [
+      "2 buah kiwi, kupas dan potong",
+      "100 g stroberi, potong",
+      "1 kulit tart siap pakai",
+      "200 g krim keju"
+    ],
+    "steps": [
+      "Siapkan kulit tart dan panggang sesuai petunjuk.",
+      "Oleskan krim keju di atas kulit tart.",
+      "Hias dengan kiwi dan stroberi.",
+      "Tart kiwi dan stroberi siap dinikmati."
+    ],
+    "image": "images/tart_kiwi_strawberry.jpg",
+    "category": ["Dessert", "Sehat"],
+    "serving": 4,
+    "prep_time": "20 menit"
+  },
+  {
+    "id": 9,
+    "title": "Pie Apel",
+    "ingredients": [
+      "3 buah apel, kupas dan iris",
+      "1 sendok makan gula",
+      "1 sendok teh kayu manis",
+      "1 lembar kulit pie siap pakai"
+    ],
+    "steps": [
+      "Tumis apel dengan gula dan kayu manis hingga empuk.",
+      "Letakkan apel dalam kulit pie dan panggang hingga kulit pie berwarna kecoklatan."
+    ],
+    "image": "images/pie_apple.jpg",
+    "category": ["Dessert"],
+    "serving": 4,
+    "prep_time": "30 menit"
+  },
+  {
+    "id": 10,
+    "title": "Kue Cokelat Pisang",
+    "ingredients": [
+      "2 buah pisang matang, haluskan",
+      "100 g cokelat batang, lelehkan",
+      "1 butir telur",
+      "1/2 cup tepung terigu",
+      "1/4 cup mentega"
+    ],
+    "steps": [
+      "Campurkan semua bahan dalam mangkuk dan aduk rata.",
+      "Tuang adonan ke dalam loyang dan panggang pada suhu 180°C selama 25 menit."
+    ],
+    "image": "images/chocolate_banana_cake.jpg",
+    "category": ["Kue"],
+    "serving": 6,
+    "prep_time": "30 menit"
+  },
+  {
+    "id": 11,
+    "title": "Jus Melon Kiwi",
+    "ingredients": [
+      "1 buah melon, potong dadu",
+      "2 buah kiwi, kupas",
+      "100 ml air jeruk nipis"
+    ],
+    "steps": [
+      "Blender melon, kiwi, dan air jeruk nipis hingga halus.",
+      "Sajikan jus melon kiwi dalam gelas dingin."
+    ],
+    "image": "images/juice_melon_kiwi.jpg",
+    "category": ["Minuman Sehat"],
+    "serving": 2,
+    "prep_time": "10 menit"
+  },
+  {
+    "id": 12,
+    "title": "Pie Stroberi",
+    "ingredients": [
+      "1 paket kulit pie",
+      "200 g stroberi segar, potong",
+      "50 g gula"
+    ],
+    "steps": [
+      "Siapkan kulit pie dan panggang sesuai petunjuk.",
+      "Tata stroberi di atas kulit pie dan taburi gula.",
+      "Panggang pie hingga stroberi matang."
+    ],
+    "image": "images/pie_strawberry.jpg",
+    "category": ["Dessert"],
+    "serving": 4,
+    "prep_time": "20 menit"
+  },
+  {
+    "id": 13,
+    "title": "Salad Buah dengan Yogurt",
+    "ingredients": [
+      "1 apel, potong dadu",
+      "1 pisang, potong",
+      "100 g anggur",
+      "200 g yogurt plain"
+    ],
+    "steps": [
+      "Campurkan semua buah dalam mangkuk.",
+      "Tambahkan yogurt dan aduk rata.",
+      "Salad buah dengan yogurt siap disajikan."
+    ],
+    "image": "images/salad_fruit_yogurt.jpg",
+    "category": ["Makanan Ringan", "Sehat"],
+    "serving": 2,
+    "prep_time": "10 menit"
+  },
+  {
+    "id": 14,
+    "title": "Smoothie Berry Mix",
+    "ingredients": [
+      "100 g stroberi",
+      "100 g blueberry",
+      "1 pisang",
+      "100 ml yogurt"
+    ],
+    "steps": [
+      "Blender semua bahan hingga halus.",
+      "Sajikan smoothie berry mix dalam gelas."
+    ],
+    "image": "images/smoothie_berry_mix.jpg",
+    "category": ["Minuman Sehat"],
+    "serving": 2,
+    "prep_time": "5 menit"
+  },
+  {
+    "id": 15,
+    "title": "Puding Stroberi",
+    "ingredients": [
+      "200 g stroberi",
+      "300 ml susu cair",
+      "1 sendok makan gula",
+      "2 sendok makan agar-agar"
+    ],
+    "steps": [
+      "Haluskan stroberi dengan blender.",
+      "Campurkan susu, gula, dan agar-agar, lalu masak hingga mendidih.",
+      "Masukkan stroberi halus dan aduk rata.",
+      "Tuang ke dalam cetakan dan biarkan dingin hingga mengeras."
+    ],
+    "image": "images/pudding_strawberry.jpg",
+    "category": ["Dessert", "Sehat"],
+    "serving": 4,
+    "prep_time": "20 menit"
+  },
+  {
+    "id": 16,
+    "title": "Mango Salsa",
+    "ingredients": [
+      "1 buah mangga, potong dadu",
+      "1 buah jeruk nipis, peras",
+      "1/4 bawang merah, cincang",
+      "1 cabai merah, cincang"
+    ],
+    "steps": [
+      "Campurkan mangga, bawang merah, cabai merah, dan air jeruk nipis.",
+      "Aduk rata dan sajikan sebagai saus untuk makanan ringan."
+    ],
+    "image": "images/mango_salsa.jpg",
+    "category": ["Makanan Ringan", "Sehat"],
+    "serving": 2,
+    "prep_time": "10 menit"
+  },
+  {
+    "id": 17,
+    "title": "Smoothie Jambu Biji",
+    "ingredients": [
+      "1 buah jambu biji",
+      "1/2 buah pisang",
+      "100 ml susu cair"
+    ],
+    "steps": [
+      "Blender semua bahan hingga halus.",
+      "Sajikan smoothie jambu biji dalam gelas."
+    ],
+    "image": "images/smoothie_guava.jpg",
+    "category": ["Minuman Sehat"],
+    "serving": 2,
+    "prep_time": "5 menit"
+  },
+  {
+    "id": 18,
+    "title": "Es Buah Segar",
+    "ingredients": [
+      "100 g melon, potong dadu",
+      "100 g semangka, potong dadu",
+      "100 g nanas, potong dadu",
+      "Es batu secukupnya"
+    ],
+    "steps": [
+      "Campurkan semua buah dalam mangkuk.",
+      "Tambahkan es batu dan aduk rata.",
+      "Es buah segar siap disajikan."
+    ],
+    "image": "images/es_buah_segar.jpg",
+    "category": ["Makanan Ringan", "Sehat"],
+    "serving": 2,
+    "prep_time": "10 menit"
+  },
+  {
+    "id": 19,
+    "title": "Kue Pisang Panggang",
+    "ingredients": [
+      "3 buah pisang matang, haluskan",
+      "1/2 cup gula kelapa",
+      "1 cup tepung terigu",
+      "1 sendok teh baking soda"
+    ],
+    "steps": [
+      "Campurkan semua bahan dalam mangkuk.",
+      "Tuang adonan ke dalam loyang dan panggang pada suhu 180°C selama 30 menit."
+    ],
+    "image": "images/banana_bread.jpg",
+    "category": ["Kue", "Makanan Ringan"],
+    "serving": 8,
+    "prep_time": "40 menit"
+  },
+  {
+    "id": 20,
+    "title": "Smoothie Peach Yogurt",
+    "ingredients": [
+      "1 buah peach",
+      "100 g yogurt plain",
+      "1 sendok makan madu"
+    ],
+    "steps": [
+      "Blender semua bahan hingga halus.",
+      "Sajikan smoothie peach yogurt dalam gelas."
+    ],
+    "image": "images/smoothie_peach_yogurt.jpg",
+    "category": ["Minuman Sehat"],
+    "serving": 2,
+    "prep_time": "5 menit"
+  }
+]
+
+  
